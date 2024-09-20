@@ -1,0 +1,15 @@
+
+## -- BLOCK:c --
+*.o
+*.a
+*.so
+*.so.*
+TAGS
+FLYCHECK
+.make.*
+## -- BLOCK:c --
+## -- BLOCK:yacc --
+lex.yy.c
+y.tab.c
+y.tab.h
+## -- BLOCK:yacc --
