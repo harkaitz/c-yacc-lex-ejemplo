@@ -68,5 +68,5 @@ las [consideraciones](./AST_CONSIDERACIONES.md) antes de empezar a escribir el c
 
 ## Bison
 
-El código generado con yacc utiliza variables globales, para un código que sea reentrante y
+El código generado con yacc utiliza variables globales, para un código que sea re-entrante y
 thread safe utiliza Bison.
